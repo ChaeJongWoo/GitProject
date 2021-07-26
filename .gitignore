@@ -4,3 +4,4 @@ WebContent/META-INF/MANIFEST.MF
 .classpath
 .project
 WebContent/WEB-INF/lib/
+build/

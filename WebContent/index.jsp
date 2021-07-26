@@ -8,8 +8,9 @@
 </head>
 <body>
 	<nav>
-		<li></li>
-		<li></li>
+		<li>master</li>
+		<li>O신규개발</li>
+		<li>GIT HUB PUSH</li>
 	</nav>
 	<h3>폐기 기능</h3>
 	<p>폐기 기능은 commit 하기 전 상태의 파일을 완전히 삭제 하는 기능 이다.  </p>
